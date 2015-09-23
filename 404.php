@@ -8,8 +8,8 @@
  */
 
 get_header(); 
-if($_SESSION['accounts']!=null) $text='Merci de bla bla bla.';
-else $text="Vous n'avez pas bli bla blu.";
+if($_SESSION['accounts']!=null) $text='Merci de contacter x';
+else $text="Vous n'avez pas trouvez ce que vous voulez? Merci de ...";
 ?>
 
 	<div id="primary" class="site-content">
